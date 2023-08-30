@@ -1,11 +1,10 @@
 import turtle 
 
+#windiw styling
 wind = turtle.Screen()
 wind.title('ping pong gameplay')
 wind.setup(width=800 , height=600)
-wind.tracer(0)
-
-
+wind.tracer(0)
 
 #madrab 1
 madrab1 = turtle.Turtle()
